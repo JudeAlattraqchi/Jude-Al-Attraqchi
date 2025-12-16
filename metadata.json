@@ -1,0 +1,7 @@
+{
+  "name": "AI Voice Solutions Landing Page",
+  "description": "A high-conversion landing page for AI voice agent services featuring claymorphism design, framer-motion animations, and a booking system.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
